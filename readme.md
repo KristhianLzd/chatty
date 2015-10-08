@@ -13,7 +13,7 @@ Desarrollo en Laravel 5.1.
 
 ## Futuro
 
-Implementar la configuración de un servidor en una Raspberry para generar un server móvil a travez del campus.
+Implementar la configuración de un servidor en una Raspberry para generar un server móvil a través del campus.
 
 ### License
 
